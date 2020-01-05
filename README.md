@@ -25,7 +25,7 @@ this is my list.  There are many like it but this one is mine.
 ## Spring
 * [Spring Boot Tutorials | Full Course](https://www.youtube.com/watch?v=35EQXmHKZYs) {02:48:00}
 ## Burp
-
+* [Bugcrowd University - Introduction to Burp Suite](https://www.youtube.com/watch?v=h2duGBZLEek)
 ## .NET
 
 ## Maven
