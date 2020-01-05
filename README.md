@@ -14,4 +14,4 @@ this is my list.  There are many like it but this one is mine
 
 
 ## Git and Github
-
+* [Git Tutorial for Beginners: Command-Line Fundamentals](https://www.youtube.com/watch?v=HVsySz-h9r4)
