@@ -1,5 +1,9 @@
-# excellent_training_videos
-this is my list.  There are many like it but this one is mine
+# Excellent Training Videos
+this is my list.  There are many like it but this one is mine.  
+### Guidelines:
+* Visuals are clear.  
+* Narrator is intelligible.
+* Material is up to date and correct.
 
 ## Reverse Engineering
 * [Ghidra and IDA - Solving a reverse engineering CTF crackme](https://www.youtube.com/watch?v=S06pgk4DjFQ)  {00:15:30}
