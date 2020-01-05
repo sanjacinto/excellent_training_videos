@@ -35,3 +35,4 @@ this is my list.  There are many like it but this one is mine.
 ## Apache HTTPD
 
 ## Django
+* [Python Django Tutorial: Full-Featured Web App Part 1 - Getting Started](https://www.youtube.com/watch?v=UmljXZIypDc){00:15:00}
