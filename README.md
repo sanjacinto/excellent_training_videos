@@ -14,8 +14,8 @@ this is my list.  There are many like it but this one is mine.
 ## Network Forensics
 
 
-## Watch People Code
-
+## Watch People Code Python
+* [Downloading Files Using Python Web Scraping | Web Scraping for Beginners](https://www.youtube.com/watch?v=0v1kp2JTZMA) {00:09:00}
 
 ## Git and Github
 * [Git Tutorial for Beginners: Command-Line Fundamentals](https://www.youtube.com/watch?v=HVsySz-h9r4) {00:30:30}
