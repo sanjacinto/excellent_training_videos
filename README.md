@@ -36,3 +36,6 @@ this is my list.  There are many like it but this one is mine.
 
 ## Django
 * [Python Django Tutorial: Full-Featured Web App Part 1 - Getting Started](https://www.youtube.com/watch?v=UmljXZIypDc){00:15:00}
+
+## Excel
+* (https://www.youtube.com/watch?v=0nbkaYsR94c)
